@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using sintaxe_basica.Models;
+
+Pesssoa p = new Pesssoa();
+
+p.Nome = "Gabi";
+p.Idade = 21;
+p.Apresentar();
+
+
+

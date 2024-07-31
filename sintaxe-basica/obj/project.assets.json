@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Documentos\\bootcamp\\bootcamp.csproj",
-      "projectName": "bootcamp",
-      "projectPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\bootcamp\\bootcamp.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Documentos\\dio\\anotacoes-bootcamp-fullstack\\sintaxe-basica\\sintaxe-basica.csproj",
+      "projectName": "sintaxe-basica",
+      "projectPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\dio\\anotacoes-bootcamp-fullstack\\sintaxe-basica\\sintaxe-basica.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\bootcamp\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\dio\\anotacoes-bootcamp-fullstack\\sintaxe-basica\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"

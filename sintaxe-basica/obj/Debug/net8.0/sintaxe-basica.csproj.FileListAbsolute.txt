@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Documentos\dio\anotacoes-bootcamp-fullstack\sintaxe-basica\bin\Debug\net8.0\sintaxe-basica.exe
+C:\Users\gabri\OneDrive\Documentos\dio\anotacoes-bootcamp-fullstack\sintaxe-basica\bin\Debug\net8.0\sintaxe-basica.deps.json
+C:\Users\gabri\OneDrive\Documentos\dio\anotacoes-bootcamp-fullstack\sintaxe-basica\bin\Debug\net8.0\sintaxe-basica.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\dio\anotacoes-bootcamp-fullstack\sintaxe-basica\bin\Debug\net8.0\sintaxe-basica.dll
+C:\Users\gabri\OneDrive\Documentos\dio\anotacoes-bootcamp-fullstack\sintaxe-basica\bin\Debug\net8.0\sintaxe-basica.pdb
+C:\Users\gabri\OneDrive\Documentos\dio\anotacoes-bootcamp-fullstack\sintaxe-basica\obj\Debug\net8.0\sintaxe-basica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\dio\anotacoes-bootcamp-fullstack\sintaxe-basica\obj\Debug\net8.0\sintaxe-basica.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\dio\anotacoes-bootcamp-fullstack\sintaxe-basica\obj\Debug\net8.0\sintaxe-basica.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\dio\anotacoes-bootcamp-fullstack\sintaxe-basica\obj\Debug\net8.0\sintaxe-basica.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\dio\anotacoes-bootcamp-fullstack\sintaxe-basica\obj\Debug\net8.0\sintaxe-basica.sourcelink.json
+C:\Users\gabri\OneDrive\Documentos\dio\anotacoes-bootcamp-fullstack\sintaxe-basica\obj\Debug\net8.0\sintaxe-basica.dll
+C:\Users\gabri\OneDrive\Documentos\dio\anotacoes-bootcamp-fullstack\sintaxe-basica\obj\Debug\net8.0\refint\sintaxe-basica.dll
+C:\Users\gabri\OneDrive\Documentos\dio\anotacoes-bootcamp-fullstack\sintaxe-basica\obj\Debug\net8.0\sintaxe-basica.pdb
+C:\Users\gabri\OneDrive\Documentos\dio\anotacoes-bootcamp-fullstack\sintaxe-basica\obj\Debug\net8.0\sintaxe-basica.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\dio\anotacoes-bootcamp-fullstack\sintaxe-basica\obj\Debug\net8.0\ref\sintaxe-basica.dll

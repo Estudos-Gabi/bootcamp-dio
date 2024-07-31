@@ -7,7 +7,7 @@ namespace sintaxe_basica.Models
 {
     public class Pesssoa
     {
-       public String Nome { get; set; }
+       public String Nome { get; set; } = null!;
        public int Idade { get; set; }
 
        public void Apresentar()

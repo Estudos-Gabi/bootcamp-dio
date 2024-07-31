@@ -23,10 +23,7 @@ Sobre
 
 <h2> Sintaxe e Tipos de Dados em C# </h2>
 
-<p
-<details>
-  
-<summary> <h3> Entendendo a estrutura de um projeto </h3> </summary>
+ <h3> Entendendo a estrutura de um projeto </h3> 
   
 <p> Para iniciar um projeto .NET é necessário que vá ao terminal e escreva: </p>
 
@@ -48,17 +45,69 @@ Sobre
   	
 </p>
 
-</details>
 
-
-<summary> <h3> O conceito de classe </h3> </summary>
-  
+<h3> O conceito de classe </h3> 
 <p>
+  
+  A classe é um dos conceitos fundamentais da Programação Orientada a Objetos (POO). Ela pode ser vista como um molde ou uma blueprint que define um conjunto de atributos e métodos que serão usados para criar objetos.  
+  
+  *byChatGPT*
+  
+ </p>
+
+  <div align=center>
+  
+   | Pessoa | 
+|:-----|
+|Atributos  | 
+|Métodos  | 
+
+  
+  </div>
+
+
+<h3> Criando nossa classe no código </h3> 
+<p> 
+  Para criar a classe siga os senquintes passos:
+  
+ 1. Recomendado criar uma pasta `Models`
+ 2. Dentro da pasta `Models` clique com o direito no mouse e selecione  `New C#` > `Class`
+ 3. Depois aparecerá uma caixa para digitar o nome da classe
+
+**Nota**: O nome das classes sempre começam com a letra maiúscula. 
 
 </p>
+<img src="#" alt="criando classe">
 
+<h4> Estrutura base de uma classe </h4>
 
+```C#
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
-</details>
+namespace sintaxe_basica.Models
+{
+    public class Pesssoa
+    {
+        
+    }
+}
+```
 
+<p>
+
+  Para adicionar um atributo a classe, digite `prop`e aperte `tab`. Assim será adicionado uma propriedade default: 
+</p>
+
+```C#
+ namespace sintaxe_basica.Models
+{
+    public class Pesssoa
+    {
+       public int MyProperty { get; set; }
+    }
+}
+```
 

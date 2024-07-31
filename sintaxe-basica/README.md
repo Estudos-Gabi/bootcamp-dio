@@ -1,10 +1,10 @@
 <img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/sintaxe-basica/images/banners%20(2).png" alt="banner">
 
-<h1>
+<h2>
 
-Sintaxe Básica com .NET C#
+Sobre
 
-</h1>
+</h2>
 
 [![- BootCamp](https://img.shields.io/badge/_-BootCamp-pink?style=for-the-badge)](https://web.dio.me/track/coding-the-future-xp-full-stack-developer)
 
@@ -12,7 +12,7 @@ Sintaxe Básica com .NET C#
 
 - Sintaxe e Tipos de Dados em C#
 - Tipos de Operadores em C#
-- Operadores Aritméticos em C#
+- Operadores Aritméticos em C#S
 - Conhecendo as Estruturas de Repetição em C#
 - Conhecendo a Organização de um Programa em C#
 - Array e Listas em C#
@@ -22,4 +22,13 @@ Sintaxe Básica com .NET C#
 
 <h2> Sintaxe e Tipos de Dados em C# </h2>
 
+<p> Para iniciar um projeto .NET é necessário que vá ao terminal e escreva: </p>
+
+``` sh
+  dotnet new console 
+``` 
+
+<p> Esta é a estrutura padrão de um projeto: </p>
+
 <img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/sintaxe-basica/images/Captura%20de%20tela%202024-07-31%20104701.png" alt="estrutura do projeto padrão">
+

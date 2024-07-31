@@ -10,7 +10,7 @@ Sobre
 
 <p> Segundo módulo do bootcamp com os seguintes cursos:
 
-- Sintaxe e Tipos de Dados em C#
+- [Sintaxe e Tipos de Dados em C#](https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/edit/main/sintaxe-basica/README.md#-sintaxe-e-tipos-de-dados-em-c- )
 - Tipos de Operadores em C#
 - Operadores Aritméticos em C#S
 - Conhecendo as Estruturas de Repetição em C#
@@ -24,7 +24,7 @@ Sobre
 
 <p> Para iniciar um projeto .NET é necessário que vá ao terminal e escreva: </p>
 
-``` sh
+```shell
   dotnet new console 
 ``` 
 
@@ -32,3 +32,12 @@ Sobre
 
 <img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/sintaxe-basica/images/Captura%20de%20tela%202024-07-31%20104701.png" alt="estrutura do projeto padrão">
 
+<p>
+  
+  As pastas  `bin`     e `obj` são pastas que não precisam ser mexidas
+
+ Os arquivos `sintaxe-basica.csproj`  e  ` sintaxe-basica.sln`  são as configurações do projeto. 
+
+  Já o `Program.cs`  é onde vamos fazer o código em si.
+  	
+</p>

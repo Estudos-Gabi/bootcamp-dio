@@ -33,7 +33,7 @@ Sobre
 
 <p> Esta é a estrutura padrão de um projeto: </p>
 
-<img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/sintaxe-basica/images/Captura%20de%20tela%202024-07-31%20104701.png" alt="estrutura do projeto padrão">
+<img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/sintaxe-basica/images/estruturaProjeto.png" alt="estrutura do projeto padrão">
 
 <p>
   
@@ -77,7 +77,7 @@ Sobre
 **Nota**: O nome das classes sempre começam com a letra maiúscula. 
 
 </p>
-<img src="#" alt="criando classe">
+<img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/sintaxe-basica/images/criandoClasse.png" alt="criando classe">
 
 <h4> Estrutura base de uma classe </h4>
 
@@ -177,7 +177,7 @@ Olá, meu nome é Gabi e tenho 21 anos!
 
 <h3> Tipos de Dados </h3>
 
-<img src="#" alt="tipos de dados">
+<img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/sintaxe-basica/images/tiposDados.png" alt="tipos de dados">
 
 <p> 
  

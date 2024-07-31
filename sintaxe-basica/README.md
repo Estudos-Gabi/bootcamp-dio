@@ -20,9 +20,11 @@ Sobre
 
 </p>
 
+<details> 
 
+ <summary> 
 <h2> Sintaxe e Tipos de Dados em C# </h2>
-
+ </summary>
  <h3> Entendendo a estrutura de um projeto </h3> 
   
 <p> Para iniciar um projeto .NET é necessário que vá ao terminal e escreva: </p>
@@ -189,4 +191,4 @@ Olá, meu nome é Gabi e tenho 21 anos!
  
  Achei interessante o tipo `Decimal` que é dedicado para o financeiro, no Java não tem isso.</p>
 
-
+</details>

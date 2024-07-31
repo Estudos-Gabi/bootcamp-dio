@@ -20,8 +20,14 @@ Sobre
 
 </p>
 
+
 <h2> Sintaxe e Tipos de Dados em C# </h2>
 
+<p
+<details>
+  
+<summary> <h3> Entendendo a estrutura de um projeto </h3> </summary>
+  
 <p> Para iniciar um projeto .NET é necessário que vá ao terminal e escreva: </p>
 
 ```shell
@@ -41,3 +47,18 @@ Sobre
   Já o `Program.cs`  é onde vamos fazer o código em si.
   	
 </p>
+
+</details>
+
+
+<summary> <h3> O conceito de classe </h3> </summary>
+  
+<p>
+
+</p>
+
+
+
+</details>
+
+

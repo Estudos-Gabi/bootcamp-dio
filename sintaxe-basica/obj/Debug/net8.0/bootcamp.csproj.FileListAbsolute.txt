@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Documentos\bootcamp\bin\Debug\net8.0\bootcamp.exe
+C:\Users\gabri\OneDrive\Documentos\bootcamp\bin\Debug\net8.0\bootcamp.deps.json
+C:\Users\gabri\OneDrive\Documentos\bootcamp\bin\Debug\net8.0\bootcamp.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\bootcamp\bin\Debug\net8.0\bootcamp.dll
+C:\Users\gabri\OneDrive\Documentos\bootcamp\bin\Debug\net8.0\bootcamp.pdb
+C:\Users\gabri\OneDrive\Documentos\bootcamp\obj\Debug\net8.0\bootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\bootcamp\obj\Debug\net8.0\bootcamp.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\bootcamp\obj\Debug\net8.0\bootcamp.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\bootcamp\obj\Debug\net8.0\bootcamp.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\bootcamp\obj\Debug\net8.0\bootcamp.dll
+C:\Users\gabri\OneDrive\Documentos\bootcamp\obj\Debug\net8.0\refint\bootcamp.dll
+C:\Users\gabri\OneDrive\Documentos\bootcamp\obj\Debug\net8.0\bootcamp.pdb
+C:\Users\gabri\OneDrive\Documentos\bootcamp\obj\Debug\net8.0\bootcamp.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\bootcamp\obj\Debug\net8.0\ref\bootcamp.dll

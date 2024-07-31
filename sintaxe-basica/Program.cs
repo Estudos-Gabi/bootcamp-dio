@@ -1,10 +1,3 @@
-﻿using sintaxe_basica.Models;
-
-Pesssoa p = new Pesssoa();
-
-p.Nome = "Gabi";
-p.Idade = 21;
-p.Apresentar();
-
-
-
+﻿
+DateTime dataAtual = DateTime.Now.AddDays(5);
+Console.WriteLine(dataAtual.ToString("dd/MM/yyyy"));

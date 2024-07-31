@@ -1,3 +1,5 @@
+
+
 <h1>
 
 Sintaxe Básica com .NET C#
@@ -20,4 +22,4 @@ Sintaxe Básica com .NET C#
 
 <h2> Sintaxe e Tipos de Dados em C# </h2>
 
-<img href="images\Captura de tela 2024-07-31 104701.png" alt="imagem do projeto">
+<img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/sintaxe-basica/images/Captura%20de%20tela%202024-07-31%20104701.png" alt="estrutura do projeto padrão">

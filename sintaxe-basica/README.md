@@ -1,12 +1,10 @@
 <img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/sintaxe-basica/images/banners%20(2).png" alt="banner">
 
-<h2>
-
-Sobre
-
-</h2>
+<div align=center> 
 
 [![- BootCamp](https://img.shields.io/badge/_-BootCamp-pink?style=for-the-badge)](https://web.dio.me/track/coding-the-future-xp-full-stack-developer)
+</div>
+
 
 <p> Segundo módulo do bootcamp com os seguintes cursos:
 
@@ -193,3 +191,12 @@ Olá, meu nome é Gabi e tenho 21 anos!
 
 [![  - Voltar ao Inicio](https://img.shields.io/badge/_-Voltar_ao_Inicio-pink?style=for-the-badge&logo=github&logoColor=black)]( https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/sintaxe-basica/README.md#sobre)
 </details>
+
+
+<h2> Tipos de Operadores em C# </h2>
+
+
+
+
+
+

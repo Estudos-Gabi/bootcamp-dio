@@ -173,3 +173,20 @@ dotnet run
 ```terminal
 Olá, meu nome é Gabi e tenho 21 anos!
 ```
+
+
+<h3> Tipos de Dados </h3>
+
+<img src="#" alt="tipos de dados">
+
+<p> 
+ 
+ Imagem tirada do [Tutorial Teacher](https://www.tutorialsteacher.com/csharp/csharp-data-types)
+</p>
+
+
+<p>
+ 
+ Achei interessante o tipo `Decimal` que é dedicado para o financeiro, no Java não tem isso.</p>
+
+

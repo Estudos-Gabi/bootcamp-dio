@@ -110,4 +110,66 @@ namespace sintaxe_basica.Models
     }
 }
 ```
+<p> Por fim, como ficou nossa classe Pessoa: </p>
 
+```C#
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace sintaxe_basica.Models
+{
+    public class Pesssoa
+    {
+       public String Nome { get; set; }
+       public int Idade { get; set; }
+
+       public void Apresentar()
+       {
+        Console.WriteLine($"Olá, meu nome é {Nome} e tenho {Idade} anos!");
+       }
+    }
+}
+```
+<p> 
+ 
+ Importante destacar o `namespace` que indica onde está nossa classe, e também será utilizado para por a classe em uso no `Main`</p>
+
+```C#
+
+namespace sintaxe_basica.Models
+
+```
+
+<h4> Utilizando a classe Pessoa </h4>
+
+<p>
+ 
+ Para utilizar a classe, basta chamá-la com o `namespace` definido anteriormente, junto ao `using`.
+ E depois, instaciar os parâmetros e utilizar os métodos. 
+ </p>
+
+```C#
+
+using sintaxe_basica.Models;
+
+Pesssoa p = new Pesssoa();
+
+p.Nome = "Gabi";
+p.Idade = 21;
+p.Apresentar();
+
+```
+<h5> Resultado </h5>
+
+<p> Para executar o código e ver o resultado, faça o comando: </p>
+
+```shell
+dotnet run
+````
+<p> E ficará assim no terminal: </p>
+
+```terminal
+Olá, meu nome é Gabi e tenho 21 anos!
+```

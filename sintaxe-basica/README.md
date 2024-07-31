@@ -10,7 +10,7 @@ Sobre
 
 <p> Segundo módulo do bootcamp com os seguintes cursos:
 
-[![  - Sintaxe e Tipos de Dados em C#](https://img.shields.io/badge/_-Sintaxe_e_Tipos_de_Dados_em_C%23-black?style=for-the-badge)](https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/edit/main/sintaxe-basica/README.md#-sintaxe-e-tipos-de-dados-em-c-)
+[![  - Sintaxe e Tipos de Dados em C#](https://img.shields.io/badge/_-Sintaxe_e_Tipos_de_Dados_em_C%23-black?style=for-the-badge)](https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/tree/main/sintaxe-basica#-sintaxe-e-tipos-de-dados-em-c-)
 - Tipos de Operadores em C#
 - Operadores Aritméticos em C#S
 - Conhecendo as Estruturas de Repetição em C#

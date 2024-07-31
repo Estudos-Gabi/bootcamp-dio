@@ -1,4 +1,4 @@
-
+<img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/sintaxe-basica/images/banners%20(2).png" alt="banner">
 
 <h1>
 

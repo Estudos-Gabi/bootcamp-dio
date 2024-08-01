@@ -27,10 +27,13 @@ Fiz apenas anotações do que achei importante, porque tem algumas coisas que s�
 
  
 <h2> Anotações</h2>
- 
- <h3> Entendendo a estrutura de um projeto </h3> 
-  
-<p> Para iniciar um projeto .NET é necessário que vá ao terminal e escreva: </p>
+
+ <details>
+<summary>
+ <h3> Entendendo a estrutura de um projeto </h3> 	
+</summary>
+
+  <p> Para iniciar um projeto .NET é necessário que vá ao terminal e escreva: </p>
 
 ```shell
   dotnet new console 
@@ -50,8 +53,14 @@ Fiz apenas anotações do que achei importante, porque tem algumas coisas que s�
   	
 </p>
 
+ </details>
 
-<h3> O conceito de classe </h3> 
+  
+<details>
+
+ <summary> <h3> Classe </h3>  </summary>
+
+
 <p>
   
   A classe é um dos conceitos fundamentais da Programação Orientada a Objetos (POO). Ela pode ser vista como um molde ou uma blueprint que define um conjunto de atributos e métodos que serão usados para criar objetos.  
@@ -178,6 +187,12 @@ dotnet run
 ```terminal
 Olá, meu nome é Gabi e tenho 21 anos!
 ```
+
+
+
+ 
+</details>
+
 
 
 <h3> Tipos de Dados </h3>

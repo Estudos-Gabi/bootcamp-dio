@@ -193,10 +193,9 @@ Olá, meu nome é Gabi e tenho 21 anos!
  
 </details>
 
-
-
-<h3> Tipos de Dados </h3>
 <details> 
+<summary><h3> Dados </h3> </summary>
+	<details> 
  <summary> Tipos</summary>
 <img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/sintaxe-basica/images/tiposDados.png" alt="tipos de dados">
 
@@ -294,10 +293,13 @@ else
 }
 ```
 
+</details>
 
-<h2> Estrutura de um projeto .NET </h2>
 
-<h3> 
+<details>
+	<summary> <h2> Estrutura de um projeto .NET </h2> </summary>
+
+ <h3> 
  
  O arquivo `.sln`(Solution) </h3>
 
@@ -396,6 +398,12 @@ EndGlobal
 <p> Um exemplo de estrutura de projeto: </p>
 
 <img src="#" alt="Estrutura do projeto"> 
+
+</details>
+
+
+
+
 
 
 

@@ -398,7 +398,7 @@ EndGlobal
 <p> Um exemplo de estrutura de projeto: </p>
 
 <img src="#" alt="Estrutura do projeto"> 
-
+ 
 </details>
 
 
@@ -408,5 +408,5 @@ EndGlobal
 
 
 
-[![  - Voltar ao Inicio](https://img.shields.io/badge/_-Voltar_ao_Inicio-pink?style=for-the-badge&logo=github&logoColor=black)]( https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/sintaxe-basica/README.md#sobre)
+
  

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace sintaxe_basica.Models
+namespace Exemplo.Common.Models
 {
     public class Pesssoa
     {

@@ -1,4 +1,4 @@
-﻿using sintaxe_basica.Models;
+﻿using Exemplo.Common.Models;
 
 Pesssoa p = new Pesssoa();
 

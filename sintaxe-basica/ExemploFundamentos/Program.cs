@@ -1,7 +1,6 @@
-﻿using Exemplo.Common.Models;
+using Exemplo.Common.Models;
 
 Pesssoa p = new Pesssoa();
-
-p.Nome = "Gabi";
+p.Nome = "Gabrielle";
 p.Idade = 21;
 p.Apresentar();

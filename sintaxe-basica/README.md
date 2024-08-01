@@ -5,24 +5,29 @@
 [![- BootCamp](https://img.shields.io/badge/_-BootCamp-pink?style=for-the-badge)](https://web.dio.me/track/coding-the-future-xp-full-stack-developer)
 </div>
 
+<details>  
 
-<p> Segundo módulo do bootcamp com os seguintes cursos:
+<summary>Segundo módulo do bootcamp com os seguintes cursos: </summary> 
 
-[![  - Sintaxe e Tipos de Dados em C#](https://img.shields.io/badge/_-Sintaxe_e_Tipos_de_Dados_em_C%23-black?style=for-the-badge)](https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/tree/main/sintaxe-basica#-sintaxe-e-tipos-de-dados-em-c-)
-[![  -  Tipos de Operadores em C#](https://img.shields.io/badge/_-_Tipos_de_Operadores_em_C%23-black?style=for-the-badge)](https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/tree/main/sintaxe-basica#-tipos-de-operadores-em-c-)
+
+- Sintaxe e Tipos de Dados em C#
 - Operadores Aritméticos em C#S
 - Conhecendo as Estruturas de Repetição em C#
 - Conhecendo a Organização de um Programa em C#
 - Array e Listas em C#
 - Construindo um Sistema para um Estacionamento com C#
 
-</p>
+</details>
 
-<details> 
 
- <summary> 
+Fiz apenas anotações do que achei importante, porque tem algumas coisas que são similares ao Java e que já estudei anteriormente (por exemplo os operadores, as estruturas de repetições) 
+
+[![Anotações](https://img.shields.io/badge/_-Anotações-black?style=for-the-badge)](https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/tree/main/sintaxe-basica#-sintaxe-e-tipos-de-dados-em-c-)
+
+
+ 
 <h2> Sintaxe e Tipos de Dados em C# </h2>
- </summary>
+ 
  <h3> Entendendo a estrutura de um projeto </h3> 
   
 <p> Para iniciar um projeto .NET é necessário que vá ao terminal e escreva: </p>
@@ -190,10 +195,10 @@ Olá, meu nome é Gabi e tenho 21 anos!
  Achei interessante o tipo `Decimal` que é dedicado para o financeiro, no Java não tem isso.</p>
 
 [![  - Voltar ao Inicio](https://img.shields.io/badge/_-Voltar_ao_Inicio-pink?style=for-the-badge&logo=github&logoColor=black)]( https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/sintaxe-basica/README.md#sobre)
-</details>
+ 
 
 
-<h2> Tipos de Operadores em C# </h2>
+<h2>  </h2>
 
 
 

@@ -21,16 +21,12 @@
 
 
 Fiz apenas anotações do que achei importante, porque tem algumas coisas que são similares ao Java e que já estudei anteriormente (por exemplo os operadores, as estruturas de repetições) 
-
-[![Anotações](https://img.shields.io/badge/_-Anotações-black?style=for-the-badge)](https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/tree/main/sintaxe-basica#-sintaxe-e-tipos-de-dados-em-c-)
-
-
  
-<h2> Anotações</h2>
+<h2> Notas </h2>
 
  <details>
 <summary>
- <h3> Básico </h3> 	
+ <h3> 💠Básico </h3> 	
 </summary>
 
   <p> Para iniciar um projeto .NET é necessário que vá ao terminal e escreva: </p>
@@ -58,7 +54,7 @@ Fiz apenas anotações do que achei importante, porque tem algumas coisas que s�
   
 <details>
 
- <summary> <h3> Classe </h3>  </summary>
+ <summary> <h3> 💠 Classe </h3>  </summary>
 
 
 <p>
@@ -194,7 +190,7 @@ Olá, meu nome é Gabi e tenho 21 anos!
 </details>
 
 <details> 
-<summary><h3> Dados </h3> </summary>
+<summary><h3> 💠 Dados </h3> </summary>
 	<details> 
  <summary> Tipos</summary>
 <img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/sintaxe-basica/images/tiposDados.png" alt="tipos de dados">
@@ -297,7 +293,7 @@ else
 
 
 <details>
-	<summary> <h3> Estrutura de um projeto .NET </h3> </summary>
+	<summary> <h3> 💠 Estrutura de um projeto .NET </h3> </summary>
 
  <h3> 
  

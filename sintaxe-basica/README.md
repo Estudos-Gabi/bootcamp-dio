@@ -30,7 +30,7 @@ Fiz apenas anotações do que achei importante, porque tem algumas coisas que s�
 
  <details>
 <summary>
- <h3> Entendendo a estrutura de um projeto </h3> 	
+ <h3> Básico </h3> 	
 </summary>
 
   <p> Para iniciar um projeto .NET é necessário que vá ao terminal e escreva: </p>
@@ -297,7 +297,7 @@ else
 
 
 <details>
-	<summary> <h2> Estrutura de um projeto .NET </h2> </summary>
+	<summary> <h3> Estrutura de um projeto .NET </h3> </summary>
 
  <h3> 
  

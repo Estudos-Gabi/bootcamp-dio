@@ -1,4 +1,4 @@
-<img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/sintaxe-basica/images/banners%20(2).png" alt="banner">
+<img src="https://github.com/Estudos-Gabi/bootcamp-dio/blob/main/Módulo%201/sintaxe-basica/images/banners%20(2).png" alt="banner">
 
 <div align=center> 
 
@@ -37,7 +37,7 @@ Fiz apenas anotações do que achei importante, porque tem algumas coisas que s�
 
 <p> Esta é a estrutura padrão de um projeto: </p>
 
-<img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/sintaxe-basica/images/estruturaProjeto.png" alt="estrutura do projeto padrão">
+<img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/Módulo%201/sintaxe-basica/images/estruturaProjeto.png" alt="estrutura do projeto padrão">
 
 <p>
   
@@ -87,7 +87,7 @@ Fiz apenas anotações do que achei importante, porque tem algumas coisas que s�
 **Nota**: O nome das classes sempre começam com a letra maiúscula. 
 
 </p>
-<img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/sintaxe-basica/images/criandoClasse.png" alt="criando classe">
+<img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/Módulo%201/sintaxe-basica/images/criandoClasse.png" alt="criando classe">
 
 <h4> Estrutura base de uma classe </h4>
 
@@ -193,7 +193,7 @@ Olá, meu nome é Gabi e tenho 21 anos!
 <summary><h3> 💠 Dados </h3> </summary>
 	<details> 
  <summary> Tipos</summary>
-<img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/sintaxe-basica/images/tiposDados.png" alt="tipos de dados">
+<img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/Módulo%201/sintaxe-basica/images/tiposDados.png" alt="tipos de dados">
 
 <p> 
  
@@ -348,11 +348,11 @@ EndGlobal
  
  Uma extensão recomendada pelo professor foi o `vscode-solution-explore`</p>
 
- <img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/sintaxe-basica/images/extensão.png" alt="Print da extensão"> 
+ <img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/Módulo%201/sintaxe-basica/images/extensão.png" alt="Print da extensão"> 
 
 <p> A extensão te ajuda a gerenciar suas solutions, podendo criar novas, ou adicionar solutions existentes ao seu projeto. Assim que a extensão é portada: </p>
 
- <img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/sintaxe-basica/images/extensãoFuncionando.png" alt="Tela da extensão"> 
+ <img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/Módulo%201/sintaxe-basica/images/extensãoFuncionando.png" alt="Tela da extensão"> 
 
 <h3> 
  
@@ -393,7 +393,7 @@ EndGlobal
 
 <p> Um exemplo de estrutura de projeto: </p>
 
-<img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/sintaxe-basica/images/estruturaProj.png" alt="Estrutura do projeto"> 
+<img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/Módulo%201/sintaxe-basica/images/estruturaProj.png" alt="Estrutura do projeto"> 
  
 </details>
 

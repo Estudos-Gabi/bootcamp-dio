@@ -1,19 +1,54 @@
 <img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/desafio/imagens/bannerDesafio.png" alt="banners"> 
 
+[![DIO - Desafio ](https://img.shields.io/badge/DIO_--_Desafio_-pink?style=for-the-badge)](https://github.com/digitalinnovationone/trilha-net-fundamentos-desafio)
 <h3> 📄 Descrição</h3>
 
 <p>
   
-Neste Projeto de LAB você será desafiado a construir um sistema para um estacionamento, que será usado para gerenciar os veículos estacionados e realizar suas operações, como por exemplo adicionar um veículo, remover um veículo (e exibir o valor cobrado durante o período) e listar os veículos.
-
-Pré-requisitos:
-- Lógica de Programação e POO;
-- Conhecimentos Básico(.NET, Git, GitHub);
-- Computador com SO de sua preferência(Windows, Linux, Mac OS);
-- Ferramentas de Desenvolvimento (IDE)</p>
+Este repositório contém a implementação de um sistema de estacionamento simples, desenvolvido como parte de um desafio do bootcamp. O objetivo deste projeto foi colocar em prática vários conceitos básicos e essenciais do C# e do .NET, bem como do uso do Git para controle de versão.
 
 
-[![DIO - Desafio ](https://img.shields.io/badge/DIO_--_Desafio_-pink?style=for-the-badge)](https://github.com/digitalinnovationone/trilha-net-fundamentos-desafio)
+</p>
+
+<h3>Funcionalidades</h3>
+
+<p>
+O sistema possui um menu interativo com as seguintes opções:
+  
+- Cadastrar carro: Permite adicionar um novo carro ao estacionamento.
+- Remover carro: Remove um carro previamente cadastrado.
+- Listar carros: Exibe todos os carros atualmente cadastrados no estacionamento.
+- Encerrar: Encerra o sistema.
+</p>
+
+<h3>
+    Tecnologias Utilizadas
+</h3>
+
+
+<p>
+
+- C#: Linguagem de programação utilizada para o desenvolvimento do sistema.
+- .NET: Framework utilizado para criar e executar a aplicação.
+- Git: Sistema de controle de versão utilizado para gerenciar o código-fonte.
+
+</p>
+
+<h3>  Conceitos Praticados </h3>
+<p>
+
+Durante o desenvolvimento deste projeto, pratiquei e aperfeiçoei os seguintes conceitos:
+
+- Manipulação de solutions e criação de projetos em C#.
+- Utilização da sintaxe da linguagem C# para desenvolver a aplicação.
+- Uso do Git para versionamento e armazenamento do código no GitHub.
+- Estruturação de um menu interativo utilizando while e switch case para navegação pelas opções do sistema.
+</p>
+
+
+
+
+
 
 ---
 <h1> Explicação do código </h1>

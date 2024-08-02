@@ -348,11 +348,11 @@ EndGlobal
  
  Uma extensão recomendada pelo professor foi o `vscode-solution-explore`</p>
 
- <img src="#" alt="Print da extensão"> 
+ <img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/sintaxe-basica/images/extensão.png" alt="Print da extensão"> 
 
 <p> A extensão te ajuda a gerenciar suas solutions, podendo criar novas, ou adicionar solutions existentes ao seu projeto. Assim que a extensão é portada: </p>
 
- <img src="#" alt="Tela da extensão"> 
+ <img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/sintaxe-basica/images/extensãoFuncionando.png" alt="Tela da extensão"> 
 
 <h3> 
  
@@ -393,7 +393,7 @@ EndGlobal
 
 <p> Um exemplo de estrutura de projeto: </p>
 
-<img src="#" alt="Estrutura do projeto"> 
+<img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/sintaxe-basica/images/estruturaProj.png" alt="Estrutura do projeto"> 
  
 </details>
 

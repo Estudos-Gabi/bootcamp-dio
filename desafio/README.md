@@ -213,3 +213,8 @@ Console.WriteLine("O programa se encerrou");
 ```
 </details>
 
+<div align=center >
+  <img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/desafio/imagens/exec.gif" alt="gif de execução" width=50%  >
+
+</div>
+

@@ -1,4 +1,4 @@
-<img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/desafio/imagens/bannerDesafio.png" alt="banners"> 
+<img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/Módulo%201/desafio/imagens/bannerDesafio.png" alt="banners"> 
 
 [![DIO - Desafio ](https://img.shields.io/badge/DIO_--_Desafio_-pink?style=for-the-badge)](https://github.com/digitalinnovationone/trilha-net-fundamentos-desafio)
 <h3> 📄 Descrição</h3>
@@ -249,7 +249,7 @@ Console.WriteLine("O programa se encerrou");
 </details>
 
 <div align=center >
-  <img src="https://github.com/Estudos-Gabi/anotacoes-bootcamp-fullstack/blob/main/desafio/imagens/exec.gif" alt="gif de execução" width=50%  >
+  <img src="https://github.com/Estudos-Gabi/bootcamp-dio/blob/main/Módulo%201/desafio/imagens/exec.gif" alt="gif de execução" width=50%  >
 
 </div>
 

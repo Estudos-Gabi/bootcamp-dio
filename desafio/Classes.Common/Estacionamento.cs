@@ -38,31 +38,37 @@ namespace Classes.Common
         }
 
 
-        public void RemoverVeiculo()
+      public void RemoverVeiculo()
+{
+    Console.WriteLine("Digite a placa do veículo para remover: ");
+    string placa = Console.ReadLine();
+
+    // Encontra o veículo independentemente de maiúsculas e minúsculas
+    var veiculo = veiculos.FirstOrDefault(x => x.ToUpper() == placa.ToUpper());
+
+    if (veiculo != null)
+    {
+        Console.WriteLine("Digite a quantidade de horas que o veículo permaneceu estacionado: ");
+        if (int.TryParse(Console.ReadLine(), out int horas))
         {
-            Console.WriteLine("Digite a placa do veículo para remover: ");
-            placa = Console.ReadLine();
+            valorTotal = precoInicial + (precoPorHora * horas);
 
-            if (veiculos.Any(x => x.ToUpper() == placa.ToUpper()))
-            {
-                Console.WriteLine("Digite a quantidade de horas que o veículo permaneceu estacionado: ");
+            // Remove o veículo encontrado
+            veiculos.Remove(veiculo);
 
-                horas = Convert.ToInt32(Console.Read());
-                valorTotal = precoInicial + (precoPorHora * horas);
-
-                veiculos.Remove(placa);
-
-                Console.WriteLine($"O veículo {placa} foi removido e o preço total foi de: R$ {valorTotal} \n");
-
-            }
-
-            else
-            {
-                Console.WriteLine("Desculpe, esse veículo não está estacionado aqui. Confira se digitou a placa corretamente\n");
-            }
-
-
+            Console.WriteLine($"O veículo {placa} foi removido e o preço total foi de: R$ {valorTotal} \n");
         }
+        else
+        {
+            Console.WriteLine("Entrada inválida para a quantidade de horas.");
+        }
+    }
+    else
+    {
+        Console.WriteLine("Desculpe, esse veículo não está estacionado aqui. Confira se digitou a placa corretamente\n");
+    }
+}
+
 
         public void ListarVeiculos()
         {

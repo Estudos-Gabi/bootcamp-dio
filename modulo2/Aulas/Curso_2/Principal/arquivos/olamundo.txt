@@ -1,0 +1,4 @@
+Leitura de arquivo txt
+Ola mundo
+tudo bem?
+

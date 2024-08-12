@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Classes.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Classes.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Classes.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Classes.Common/1.0.0": {
+      "type": "project",
+      "path": "../Classes.Common/Classes.Common.csproj",
+      "msbuildProject": "../Classes.Common/Classes.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Classes.Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\gabri\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Documentos\\dio\\bootcamp-dio\\modulo2\\Aulas\\Curso_2\\Principal\\principal.csproj",
+      "projectName": "principal",
+      "projectPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\dio\\bootcamp-dio\\modulo2\\Aulas\\Curso_2\\Principal\\principal.csproj",
+      "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\dio\\bootcamp-dio\\modulo2\\Aulas\\Curso_2\\Principal\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\gabri\\OneDrive\\Documentos\\dio\\bootcamp-dio\\modulo2\\Aulas\\Curso_2\\Classes.Common\\Classes.Common.csproj": {
+              "projectPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\dio\\bootcamp-dio\\modulo2\\Aulas\\Curso_2\\Classes.Common\\Classes.Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

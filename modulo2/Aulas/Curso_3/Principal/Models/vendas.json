@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Nome_Produto": "Lapis",
+    "Preco": 5.0,
+    "DataVenda": "2024-08-09T16:16:07.6678086-03:00"
+  },
+  {
+    "Id": 2,
+    "Nome_Produto": "Borracha",
+    "Preco": 3.0,
+    "DataVenda": "2024-08-09T16:16:07.6678086-03:00"
+  },
+  {
+    "Id": 3,
+    "Nome_Produto": "Cadernno",
+    "Preco": 30.0,
+    "DataVenda": "2024-08-09T16:16:07.6678086-03:00"
+  }
+]

@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Classes.Models
 {
-    abstract class Smartphone
+    public abstract class Smartphone
     {
         public string Numero { get; set; }
         private string _modelo;

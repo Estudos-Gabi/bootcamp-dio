@@ -5,16 +5,14 @@ using System.Threading.Tasks;
 
 namespace Classes.Models
 {
-    public class Nokia : Smartphone
+    public class Iphone : Smartphone
     {
-         public Nokia( string numero,string modelo, string imei, int memoria) 
+       public Iphone( string numero,string modelo, string imei, int memoria) 
             : base(numero,modelo,imei,memoria)
             {}
-
-
         public override void InstalarAplicativo(string nomeApp)
         {
-            Console.WriteLine($"Instalando o aplicativo {nomeApp} no Nokia.");
+             Console.WriteLine($"Instalando o aplicativo {nomeApp} no Iphone.");
         }
     }
 }

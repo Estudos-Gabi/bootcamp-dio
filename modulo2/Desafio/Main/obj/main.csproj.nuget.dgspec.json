@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\OneDrive\\Documentos\\dio\\bootcamp-dio\\modulo2\\Desafio\\main\\main.csproj": {}
+    "C:\\Users\\gabri\\OneDrive\\Documentos\\dio\\bootcamp-dio\\modulo2\\Desafio\\Main\\main.csproj": {}
   },
   "projects": {
     "C:\\Users\\gabri\\OneDrive\\Documentos\\dio\\bootcamp-dio\\modulo2\\Desafio\\Classes.Common\\Classes.Common.csproj": {
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\gabri\\OneDrive\\Documentos\\dio\\bootcamp-dio\\modulo2\\Desafio\\main\\main.csproj": {
+    "C:\\Users\\gabri\\OneDrive\\Documentos\\dio\\bootcamp-dio\\modulo2\\Desafio\\Main\\main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Documentos\\dio\\bootcamp-dio\\modulo2\\Desafio\\main\\main.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Documentos\\dio\\bootcamp-dio\\modulo2\\Desafio\\Main\\main.csproj",
         "projectName": "main",
-        "projectPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\dio\\bootcamp-dio\\modulo2\\Desafio\\main\\main.csproj",
+        "projectPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\dio\\bootcamp-dio\\modulo2\\Desafio\\Main\\main.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\dio\\bootcamp-dio\\modulo2\\Desafio\\main\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\dio\\bootcamp-dio\\modulo2\\Desafio\\Main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"

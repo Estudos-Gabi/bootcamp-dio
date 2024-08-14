@@ -1,0 +1,12 @@
+C:\Users\gabri\OneDrive\Documentos\dio\bootcamp-dio\modulo3\Classes\bin\Debug\net8.0\Classes.Common.deps.json
+C:\Users\gabri\OneDrive\Documentos\dio\bootcamp-dio\modulo3\Classes\bin\Debug\net8.0\Classes.Common.dll
+C:\Users\gabri\OneDrive\Documentos\dio\bootcamp-dio\modulo3\Classes\bin\Debug\net8.0\Classes.Common.pdb
+C:\Users\gabri\OneDrive\Documentos\dio\bootcamp-dio\modulo3\Classes\obj\Debug\net8.0\Classes.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\dio\bootcamp-dio\modulo3\Classes\obj\Debug\net8.0\Classes.Common.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\dio\bootcamp-dio\modulo3\Classes\obj\Debug\net8.0\Classes.Common.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\dio\bootcamp-dio\modulo3\Classes\obj\Debug\net8.0\Classes.Common.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\dio\bootcamp-dio\modulo3\Classes\obj\Debug\net8.0\Classes.Common.sourcelink.json
+C:\Users\gabri\OneDrive\Documentos\dio\bootcamp-dio\modulo3\Classes\obj\Debug\net8.0\Classes.Common.dll
+C:\Users\gabri\OneDrive\Documentos\dio\bootcamp-dio\modulo3\Classes\obj\Debug\net8.0\refint\Classes.Common.dll
+C:\Users\gabri\OneDrive\Documentos\dio\bootcamp-dio\modulo3\Classes\obj\Debug\net8.0\Classes.Common.pdb
+C:\Users\gabri\OneDrive\Documentos\dio\bootcamp-dio\modulo3\Classes\obj\Debug\net8.0\ref\Classes.Common.dll
